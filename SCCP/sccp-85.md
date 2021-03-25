@@ -3,7 +3,7 @@ sccp: 85
 title: Increase loans and shorts cap to 30 million
 author: Danijel Gornjakovic (@danijel)
 discussions-to: governance
-status: Implemented
+status: Proposed
 created: 2021-02-13
 ---
 

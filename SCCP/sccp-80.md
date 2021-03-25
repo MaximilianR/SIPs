@@ -3,7 +3,7 @@ sccp: 80
 title: Lower Fees on Selected Synths
 author: Kaleb Keny (@kaleb-keny)
 discussions-to: governance
-status: Implemented
+status: Proposed
 created: 2021-01-22
 
 ---
